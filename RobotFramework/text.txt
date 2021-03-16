@@ -1,3 +1,9 @@
+
 completely different
 
 test3branch
+
+CONFLICTCONFLICTcompletely different
+
+
+CONFLICT
